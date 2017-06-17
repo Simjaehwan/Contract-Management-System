@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebRoot/error.jsp=UTF-8
+encoding//WebRoot/footer.jsp=UTF-8
+encoding//src/com/ruanko/web/ToLoginServlet.java=UTF-8
+encoding//src/com/ruanko/web/ToNewUserServlet.java=UTF-8
+encoding//src/com/ruanko/web/ToRegisterServlet.java=UTF-8
